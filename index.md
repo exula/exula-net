@@ -24,3 +24,5 @@ Systems Administration
 * Rancher
 * CEPH
 * the kitchen sink
+
+<a rel="me" href="https://phpc.social/@exula">Mastodon</a>
